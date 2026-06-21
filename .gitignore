@@ -1,0 +1,65 @@
+.env
+
+# ── 密钥 ──
+.env
+
+# ── Python 构建产物 ──
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── IDE ──
+.idea/
+.vscode/
+
+# ── 运行时数据 ──
+data/checkpoints/
+logs/
+*.log
+server.log
+
+# ── Docker 数据卷 ──
+volumes/
+
+# ── 测试产物 ──
+.coverage
+htmlcov/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── 密钥 ──
+.env
+
+# ── Python 构建产物 ──
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── IDE ──
+.idea/
+.vscode/
+
+# ── 运行时数据 ──
+data/checkpoints/
+logs/
+*.log
+server.log
+
+# ── Docker 数据卷 ──
+volumes/
+
+# ── 测试产物 ──
+.coverage
+htmlcov/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
